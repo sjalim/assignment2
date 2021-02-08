@@ -357,11 +357,38 @@ height: 350px;
 
 .blog-bottom{
 
-  margin-top:220px;
-  border: 2px solid black;
+  margin-top: 225px;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+  /* border: 2px solid black; */
 }
 
 .blog-bottom-content{
 
-    
+    text-align: center;
+    width: 150px;
+    height: 75px; 
+    box-shadow: 0 0 1px 1px grey;
+}
+.blog-bottom-content>img{
+
+
+    width: 20px;
+    height: 20px;
+    margin-top: 16px;
+
+
+}
+
+.copyright{
+
+
+    padding-top:  50px;
+    height: 100px;
+    background-color: black;
+    text-align: center;
+    color: white;
+
+
 }
